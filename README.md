@@ -52,7 +52,7 @@ This project implements a **visualization of the A* pathfinding algorithm** usin
 
 4. **Open the project in your browser**:
 
-   After the server starts, navigate to `http://localhost:3000` to view the project.
+   After the server starts, navigate to `http://localhost:5173` to view the project.
 
 ## 🎮 Usage
 
