@@ -18,6 +18,13 @@ This project implements a **visualization of the A* pathfinding algorithm** usin
 - **Vite**: Build tool
 - **TypeScript**: TypeScript for better development experience and type safety
 
+## 🚀 Live Demo
+
+You can try the app online here:
+
+👉 **[https://caixiaoshun.github.io/AStarViz/](https://caixiaoshun.github.io/AStarViz/)**
+
+
 ## 🚀 Installation
 
 ### 📋 Prerequisites
